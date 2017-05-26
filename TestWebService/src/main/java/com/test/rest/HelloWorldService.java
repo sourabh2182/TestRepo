@@ -27,8 +27,8 @@ public class HelloWorldService {
 	    //some changes
 	    //updating changes
 	    //adding new line1
-	    //adding new line2
-	    //adding new line3
+	    //updating new line2
+	    //updating new line3
 	    return Response.status(200).build();
 	    //Some new changes
 	}
