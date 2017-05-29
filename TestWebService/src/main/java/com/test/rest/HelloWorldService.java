@@ -27,11 +27,12 @@ public class HelloWorldService {
 	    
 	    int a = 5;
 	    int b = 5;
+	    int d = 5;
 	    int c = a 
 	    //test
-	    + b;
+	    + b
 	    //test
-	    
++d;	    
 	    //some changes
 	    //updating changes
 	    //adding new line1
