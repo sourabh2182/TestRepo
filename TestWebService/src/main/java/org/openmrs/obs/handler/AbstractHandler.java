@@ -155,7 +155,7 @@ public class AbstractHandler {
 		log.warn("Could not delete complex data object for obsId=" + obs.getObsId() + " located at "
 		        + file.getAbsolutePath());
 		return false;
-	}
+	sadfxwsfgv}
 	
 	/**
 	 * Convenience method to create and return a file for the stored ComplexData.data Object
