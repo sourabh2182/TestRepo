@@ -22,6 +22,7 @@ public class SendEmailTask extends AbstractTask {
 	private Logger log = LoggerFactory.getLogger(SendEmailTask.class);
 	
 	/**
+	*
 	 * Process the next form entry in the database and then remove the form entry from the database.
 	 */
 	@Override

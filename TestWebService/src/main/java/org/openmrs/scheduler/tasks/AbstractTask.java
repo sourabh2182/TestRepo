@@ -30,6 +30,7 @@ public abstract class AbstractTask implements Task {
 	
 	/**
 	 * Default constructor
+	 *
 	 */
 	protected AbstractTask() {
 	}
